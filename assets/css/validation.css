@@ -1,0 +1,21 @@
+.error-msg {
+    color: red;
+    font-size: 12px;
+  }
+
+
+  .contact {
+    height: 500px !important;
+  }
+
+  section{
+    height: 750px !important;
+  }
+
+  .login{
+   height: 370px;
+  }
+
+  .have_account{
+    color: aliceblue;
+  }
